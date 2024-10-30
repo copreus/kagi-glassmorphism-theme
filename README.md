@@ -4,6 +4,13 @@ A thoughtful adaptation of the [pdanzma/kagi-css](https://github.com/pdanzma/kag
 
 ## Preview
 
+<p float="left">
+  <img src="[https://path-to-your-image1.jpg](https://raw.githubusercontent.com/copreus/kagi-theme/refs/heads/main/preview/0w95kd.png)" width="250" />
+  <img src="[https://path-to-your-image2.jpg](https://raw.githubusercontent.com/copreus/kagi-theme/refs/heads/main/preview/7shmx3.png)" width="250" /> 
+  <img src="[https://path-to-your-image3.jpg](https://raw.githubusercontent.com/copreus/kagi-theme/refs/heads/main/preview/zwolgu.png)" width="250" />
+</p>
+
+
 ## About This Version
 
 While this isn't a perfect recreation of the original theme, it prioritizes:
