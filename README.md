@@ -35,6 +35,6 @@ While this isn't a perfect recreation of the original theme, it prioritizes:
 
 ## Acknowledgments
 
-This theme is a respectful adaptation of [pdanzma's Kagi CSS theme](https://github.com/pdanzma/kagi-css). While i've made modifications to address certain issues, I strive to maintain the original's beautiful design philosophy and user experience.
+This theme is a respectful adaptation of [pdanzma's Kagi CSS theme](https://github.com/pdanzma/kagi-css). 
 
 
